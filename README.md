@@ -1,4 +1,4 @@
-# Serverless Bakends using CloudFare workers
+# Serverless Bakends using CloudFare workers and...
 
 # EC2 Learning Repository
 
